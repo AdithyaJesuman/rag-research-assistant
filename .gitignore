@@ -1,23 +1,22 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Environment variables
+
 .env
 
-# Virtual environments
+
 venv/
 env/
 ENV/
 
-# Vector database storage
+
 vector_db/
 
-# Data files (you might want to exclude PDFs if they are large or private)
+
 data/papers/*.pdf
 
-# IDE / OS specific files
+
 .vscode/
 .idea/
 .DS_Store
